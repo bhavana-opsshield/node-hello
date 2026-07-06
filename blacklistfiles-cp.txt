@@ -2,3 +2,4 @@
 libworker.so
 sample.php
 sendisdj
+checkurl
